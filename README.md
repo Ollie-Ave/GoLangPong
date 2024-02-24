@@ -5,6 +5,8 @@ Pong using go lang and ray lib.
 
 From the project's root, run:
 
-```bash go run cmd/GoLangPong/main.go```
+```bash
+go run cmd/GoLangPong/main.go
+```
 
 Press "Caps Lock" to exit.
